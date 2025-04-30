@@ -1,0 +1,2 @@
+Create a Power BI dashboard that segments customers based on their buying behavior (RFM analysis: Recency, Frequency, Monetary) to help a retail company tailor marketing strategies.
+
